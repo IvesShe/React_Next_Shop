@@ -2,7 +2,7 @@
 
 線上展示
 
-https://react-next-shop-deploy-7afsya8w2-ivesshe.vercel.app/
+https://react-next-shop-deploy.vercel.app/
 
 # 使用技術
 
