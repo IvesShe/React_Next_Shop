@@ -1,5 +1,62 @@
-# React_Next_Shop
+# React 電商前台 搭配Next.js
 
+# 使用技術
+
+- react
+- react-redux
+- Next.js
+- react-bootstrap
+- sass
+
+# 頁面展示
+
+首頁-上
+
+![image](./images/20220323150229.png)
+
+首頁-中
+
+![image](./images/20220323150316.png)
+
+首頁-下
+
+![image](./images/20220323150249.png)
+
+首頁-footer
+
+![image](./images/20220323150327.png)
+
+商品展示頁
+
+![image](./images/20220323150347.png)
+
+單一產品介紹頁
+
+![image](./images/20220323150510.png)
+
+結帳頁面
+
+![image](./images/20220323150544.png)
+
+關於我
+
+![image](./images/20220323150559.png)
+
+聯絡我
+
+![image](./images/20220323150609.png)
+
+客戶登入頁
+
+![image](./images/20220323150619.png)
+
+願望清單
+
+![image](./images/20220323150628.png)
+
+購物車
+
+![image](./images/20220323150637.png)
 
 
 # Next.js
