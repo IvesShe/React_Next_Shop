@@ -1,5 +1,9 @@
 # React 電商前台 搭配Next.js
 
+線上展示
+
+https://react-next-shop-deploy-3qzgnrnmv-ivesshe.vercel.app/
+
 # 使用技術
 
 - react
